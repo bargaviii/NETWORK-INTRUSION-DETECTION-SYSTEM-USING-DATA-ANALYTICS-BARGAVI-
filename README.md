@@ -15,7 +15,7 @@
 ### Visualize patterns, correlations, and classification results
 
 ## MODULES OF THE PROJECT
-
+### Module 1 — Data Collection & Loading
 ### Module 2 — Data Cleaning & Preprocessing
 ### Module 3 — Exploratory Data Analysis (EDA)
 ### Module 4 — Feature Selection
