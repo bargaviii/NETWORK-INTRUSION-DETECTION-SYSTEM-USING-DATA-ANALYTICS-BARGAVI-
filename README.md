@@ -1,1 +1,2 @@
 # NETWORK-INTRUSION-DETECTION-SYSTEM-USING-DATA-ANALYTICS-BARGAVI-
+# Developed a Network Intrusion Detection System that analyzes network traffic and identifies potential attacks using data analytics techniques. Performed data preprocessing, feature selection, and exploratory analysis on network datasets. Implemented machine learning models to classify intrusions such as DoS, Probe, R2L, and U2R attacks. Evaluated model performance using accuracy, precision, and recall, and presented insights through visualizations.
